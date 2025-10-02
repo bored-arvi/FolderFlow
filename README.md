@@ -1,6 +1,6 @@
-# PySort: The Digital Butler 🧹
+# FolderFlow: The Digital Butler 🧹
 
-**PySort** is a simple, yet powerful Python script designed to automatically organize files in a specified directory by sorting them into dedicated subfolders based on their file type (extension). Say goodbye to clutter in your Downloads or project folders!
+**FolderFlow** is a simple, yet powerful Python script designed to automatically organize files in a specified directory by sorting them into dedicated subfolders based on their file type (extension). Say goodbye to clutter in your Downloads or project folders!
 
 ## Features
 
